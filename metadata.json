@@ -1,0 +1,6 @@
+{
+  "name": "Chillax Cafe | Thodupuzha",
+  "description": "Chillax Cafe in Thodupuzha, Kerala. Where Flavour Meets Chill. Explore our fresh shakes, authentic Avil milk, gourmet burgers, crispy fries, momos, and order directly on WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
